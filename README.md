@@ -1,3 +1,4 @@
+
 # TradeCore Group
 
 # Requirements
@@ -88,4 +89,3 @@ The token can be obtained using the Login endpoint. The endpoint is used to like
 ```
 python manage.py test
 ```
-
